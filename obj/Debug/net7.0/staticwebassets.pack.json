@@ -1,0 +1,1105 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom14.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTLNhom14.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Image\\blog-1220935741.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog-1220935741.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Image\\blog-2220944722.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog-2220944722.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Image\\blog-3220951071.jpg",
+      "PackagePath": "staticwebassets\\Image\\blog-3220951071.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Image\\gallary-4221505690222548948.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallary-4221505690222548948.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Image\\gallary-5221551260.jpg",
+      "PackagePath": "staticwebassets\\Image\\gallary-5221551260.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\about-section.jpg",
+      "PackagePath": "staticwebassets\\Upload\\about-section.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-1225027387.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-1225027387.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Upload\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\book-table-img.jpg",
+      "PackagePath": "staticwebassets\\Upload\\book-table-img.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-1.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-1.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-10.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-10.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-11.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-11.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-12.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-12.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-2.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-2.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-3.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-3.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-4.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-4.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-4221505690.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-4221505690.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-5.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-5.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-6.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-6.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-7.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-7.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-8.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-8.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-9.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-9.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\gallary-9221418122.jpg",
+      "PackagePath": "staticwebassets\\Upload\\gallary-9221418122.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\Upload\\main.jpg",
+      "PackagePath": "staticwebassets\\Upload\\main.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\css\\admin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\css\\foodhut.css",
+      "PackagePath": "staticwebassets\\assets\\css\\foodhut.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\about-section.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\about-section.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\book-table-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\book-table-img.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-1.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-10.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-11.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-12.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-2.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-3.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-4.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-5.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-6.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-7.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-8.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\gallary-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\gallary-9.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\logo.svg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\imgs\\main.jpg",
+      "PackagePath": "staticwebassets\\assets\\imgs\\main.jpg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\js\\admin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\js\\foodhut.js",
+      "PackagePath": "staticwebassets\\assets\\js\\foodhut.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\abstracts\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\base\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\components\\_custom-form.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_custom-form.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\foodhut.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\foodhut.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\assets\\vendors\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib-backup\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib-backup\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib-backup\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PTPMQL\\BTLNhom14\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BTLNhom14.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BTLNhom14.props",
+      "PackagePath": "build\\BTLNhom14.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLNhom14.props",
+      "PackagePath": "buildMultiTargeting\\BTLNhom14.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BTLNhom14.props",
+      "PackagePath": "buildTransitive\\BTLNhom14.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
